@@ -1,0 +1,22 @@
+# 深度学习论文阅读汇总&参考文章
+
+## 阅读完成的论文
+
+|         日期 | 标题                                                          | 封面                                                     |      时长 | 视频（播放数）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-----------:|-------------------------------------------------------------|--------------------------------------------------------|--------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023-11-20 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="images/swin_transformer.jpg" width="200px"/> | 1:00:21 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV13L4y1475U)](https://www.bilibili.com/video/BV13L4y1475U/) <br />[![zhihu](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=zhihu&query=video.play_count&url=https://www.zhihu.com/api/v4/zvideos/1466282983652691968)](https://www.zhihu.com/zvideo/1466282983652691968)   <br />[![](https://img.shields.io/youtube/views/luP3-Fs0QCo?style=social)](https://youtu.be/luP3-Fs0QCo) |
+
+## 所有论文
+
+### 时间序列
+
+| 已阅读 | 年份   | 名字                 | 简介 | 引用 |
+|-----|------|--------------------|----|----|
+| ✅   | XXXX | [paper](paper.url) | 暂无 |    |
+
+### 计算机视觉 - Transformer
+
+| 已阅读 | 年份   | 名字                                                       | 简介                     | 引用                                                                                                                                                                                                                                                                                                                                                                         |
+|-----|------|----------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ✅   | 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | 多层次的Vision Transformer | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc8b25fab5608c3e033d34b4483ec47e68ba109b7%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7) |
+
